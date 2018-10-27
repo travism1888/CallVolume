@@ -1,0 +1,1288 @@
+07:00:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	4	7	4	16547192	1035	3507		
+	SIP	Sessions	4	7	4	16547192	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+07:15:03-176	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	5	5	2	16547205	1035	3507		
+	SIP	Sessions	5	5	2	16547205	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+07:30:03-176	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	6	7	3	16547224	1035	3507		
+	SIP	Sessions	6	7	3	16547224	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+07:45:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1	3	0	16547242	1035	3507		
+	SIP	Sessions	1	3	0	16547242	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+08:00:03-176	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	0	5	2	16547260	1035	3507		
+	SIP	Sessions	0	5	2	16547260	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+08:15:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	8	10	6	16547285	1035	3507		
+	SIP	Sessions	8	10	6	16547285	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+08:30:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	4	6	3	16547304	1035	3507		
+	SIP	Sessions	4	6	3	16547304	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+08:45:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	7	8	7	16547330	1035	3507		
+	SIP	Sessions	7	8	7	16547330	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+09:00:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	5	5	5	16547351	1035	3507		
+	SIP	Sessions	5	5	5	16547351	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+09:15:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	10	10	3	16547374	1035	3507		
+	SIP	Sessions	10	10	3	16547374	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+09:30:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	11	12	7	16547399	1035	3507		
+	SIP	Sessions	11	12	7	16547399	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+09:45:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	5	5	3	16547409	1035	3507		
+	SIP	Sessions	5	5	3	16547409	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+10:00:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	9	10	6	16547432	1035	3507		
+	SIP	Sessions	9	10	6	16547432	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+10:15:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	7	11	5	16547472	1035	3507		
+	SIP	Sessions	7	11	5	16547472	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+10:30:03-176	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	12	12	8	16547521	1035	3507		
+	SIP	Sessions	12	12	8	16547521	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+10:45:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	7	14	8	16547566	1035	3507		
+	SIP	Sessions	7	14	8	16547566	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+11:00:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	11	14	8	16547620	1035	3507		
+	SIP	Sessions	11	14	8	16547620	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+11:15:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	18	21	24	16547704	1035	3507		
+	SIP	Sessions	18	21	24	16547704	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+11:30:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	31	31	29	16547823	1035	3507		
+	SIP	Sessions	31	31	29	16547823	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+11:45:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	34	42	35	16547958	1035	3507		
+	SIP	Sessions	34	42	35	16547958	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+12:00:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	66	69	64	16548171	1035	3507		
+	SIP	Sessions	66	69	64	16548171	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+12:15:02-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	302	302	139	16548741	1035	3507		
+	SIP	Sessions	302	302	139	16548741	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+12:30:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	397	399	175	16549507	1035	3507		
+	SIP	Sessions	397	399	175	16549507	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+12:45:02-175	Capacity=8000									
+Session	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+Total	Sessions	464	475	188	16550419	1035	3507			
+SIP	Sessions	464	475	188	16550419	1035	3507			
+H.323	Calls	0	0	0	0	0	0			
+										
+IWF	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+H.323-to-SIP	Calls	0	0	0	0	0	0			
+SIP-to-H.323	Calls	0	0	0	0	0	0			
+ofallonsbc2>	spawn	sudo	ssh	10.7.240.156						
+										
+ofallonsbc2>	show	sessions								
+13:00:03-175	Capacity=8000									
+Session	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+Total	Sessions	512	542	211	16551423	1035	3507			
+SIP	Sessions	512	542	211	16551423	1035	3507			
+H.323	Calls	0	0	0	0	0	0			
+										
+IWF	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+H.323-to-SIP	Calls	0	0	0	0	0	0			
+SIP-to-H.323	Calls	0	0	0	0	0	0			
+ofallonsbc2>	spawn	sudo	ssh	10.7.240.156						
+										
+ofallonsbc2>	show	sessions								
+13:15:02-175	Capacity=8000									
+Session	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+Total	Sessions	925	926	304	16553013	1035	3507			
+SIP	Sessions	925	926	304	16553013	1035	3507			
+H.323	Calls	0	0	0	0	0	0			
+										
+IWF	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+H.323-to-SIP	Calls	0	0	0	0	0	0			
+SIP-to-H.323	Calls	0	0	0	0	0	0			
+ofallonsbc2>	spawn	sudo	ssh	10.7.240.156						
+										
+ofallonsbc2>	show	sessions								
+13:30:03-175	Capacity=8000									
+Session	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+Total	Sessions	1127	1127	409	16554843	1035	3507			
+SIP	Sessions	1127	1127	409	16554843	1035	3507			
+H.323	Calls	0	0	0	0	0	0			
+										
+IWF	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+H.323-to-SIP	Calls	0	0	0	0	0	0			
+SIP-to-H.323	Calls	0	0	0	0	0	0			
+ofallonsbc2>	spawn	sudo	ssh	10.7.240.156						
+										
+ofallonsbc2>	show	sessions								
+13:45:03-175	Capacity=8000									
+Session	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+Total	Sessions	1365	1365	460	16556920	1035	3507			
+SIP	Sessions	1365	1365	460	16556920	1035	3507			
+H.323	Calls	0	0	0	0	0	0			
+										
+IWF	Statistics	--	Period	--	--------	Lifetime	--------			
+	Active	High	Total	Total	PerMax	High				
+H.323-to-SIP	Calls	0	0	0	0	0	0			
+SIP-to-H.323	Calls	0	0	0	0	0	0			
+ofallonsbc2>	spawn	sudo	ssh	10.7.240.156						
+										
+ofallonsbc2>	show	sessions								
+14:00:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1398	1407	420	16559065	1035	3507		
+	SIP	Sessions	1398	1407	420	16559065	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+14:15:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1513	1543	462	16561450	1035	3507		
+	SIP	Sessions	1513	1543	462	16561450	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+14:30:02-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1560	1566	491	16563878	1035	3507		
+	SIP	Sessions	1560	1566	491	16563878	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+14:45:02-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1675	1703	529	16566560	1035	3507		
+	SIP	Sessions	1675	1703	529	16566560	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+15:00:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1765	1768	575	16569311	1035	3507		
+	SIP	Sessions	1765	1768	575	16569311	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+15:15:02-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2065	2072	584	16572422	1035	3507		
+	SIP	Sessions	2065	2072	584	16572422	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+15:30:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2155	2157	614	16575528	1035	3507		
+	SIP	Sessions	2155	2157	614	16575528	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+15:45:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2206	2232	615	16578663	1035	3507		
+	SIP	Sessions	2206	2232	615	16578663	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+16:00:02-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2157	2172	607	16581708	1035	3507		
+	SIP	Sessions	2157	2172	607	16581708	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+16:15:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2242	2242	659	16584956	1035	3507		
+	SIP	Sessions	2242	2242	659	16584956	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+16:30:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2184	2198	586	16587971	1035	3507		
+	SIP	Sessions	2184	2198	586	16587971	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+16:45:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2177	2243	593	16591178	1035	3507		
+	SIP	Sessions	2177	2243	593	16591178	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+17:00:04-176	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2060	2079	598	16594191	1035	3507		
+	SIP	Sessions	2060	2079	598	16594191	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+17:15:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2057	2112	596	16597158	1035	3507		
+	SIP	Sessions	2057	2112	596	16597158	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+17:30:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2177	2212	568	16600204	1035	3507		
+	SIP	Sessions	2177	2212	568	16600204	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+17:45:03-175	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2144	2163	603	16603168	1035	3507		
+	SIP	Sessions	2144	2163	603	16603168	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+18:00:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2264	2269	602	16606164	1035	3507		
+	SIP	Sessions	2264	2269	602	16606164	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+18:15:02-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2340	2366	621	16609327	1035	3507		
+	SIP	Sessions	2340	2366	621	16609327	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+18:30:02-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2367	2383	668	16612518	1035	3507		
+	SIP	Sessions	2367	2383	668	16612518	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+18:45:03-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2333	2368	586	16615669	1035	3507	
+		SIP	Sessions	2333	2368	586	16615669	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+19:00:02-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2240	2267	602	16618791	1035	3507	
+		SIP	Sessions	2240	2267	602	16618791	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+19:15:03-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2220	2264	558	16621904	1035	3507	
+		SIP	Sessions	2220	2264	558	16621904	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+19:30:03-175	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2163	2174	656	16625051	1035	3507	
+		SIP	Sessions	2163	2174	656	16625051	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+19:45:02-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2180	2236	600	16628215	1035	3507	
+		SIP	Sessions	2180	2236	600	16628215	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+20:00:03-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2117	2143	573	16631255	1035	3507	
+		SIP	Sessions	2117	2143	573	16631255	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+20:15:02-173	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	2107	2140	588	16634372	1035	3507		
+	SIP	Sessions	2107	2140	588	16634372	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+20:30:03-175	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	2023	2091	571	16637327	1035	3507	
+		SIP	Sessions	2023	2091	571	16637327	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+20:45:02-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		Total	Sessions	1981	1991	529	16640171	1035	3507	
+		SIP	Sessions	1981	1991	529	16640171	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+21:00:03-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+	Active	High	Total	Total	PerMax	High				
+		Total	Sessions	1837	1869	544	16642894	1035	3507	
+		SIP	Sessions	1837	1869	544	16642894	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+21:15:02-174	Capacity=8000									
+		Session	Statistics	--	Period	--	--------	Lifetime	--------	
+	Active	High	Total	Total	PerMax	High				
+		Total	Sessions	1669	1700	481	16645394	1035	3507	
+		SIP	Sessions	1669	1700	481	16645394	1035	3507	
+		H.323	Calls	0	0	0	0	0	0	
+										
+		IWF	Statistics	--	Period	--	--------	Lifetime	--------	
+			Active	High	Total	Total	PerMax	High		
+		H.323-to-SIP	Calls	0	0	0	0	0	0	
+		SIP-to-H.323	Calls	0	0	0	0	0	0	
+		ofallonsbc2>	spawn	sudo	ssh	10.7.240.156				
+										
+		ofallonsbc2>	show	sessions						
+21:30:03-174	Capacity=8000									
+			Session	Statistics	--	Period	--	--------	Lifetime	--------
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1534	1602	452	16647660	1035	3507		
+	SIP	Sessions	1534	1602	452	16647660	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+21:45:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1481	1492	388	16649687	1035	3507		
+	SIP	Sessions	1481	1492	388	16649687	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+22:00:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1272	1345	337	16651592	1035	3507		
+	SIP	Sessions	1272	1345	337	16651592	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+22:15:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	1068	1110	276	16653140	1035	3507		
+	SIP	Sessions	1068	1110	276	16653140	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+22:30:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	985	986	272	16654532	1035	3507		
+	SIP	Sessions	985	986	272	16654532	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+22:45:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	884	932	270	16655897	1035	3507		
+	SIP	Sessions	884	932	270	16655897	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+23:00:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	826	843	191	16657076	1035	3507		
+	SIP	Sessions	826	843	191	16657076	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+23:15:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	705	728	188	16658125	1035	3507		
+	SIP	Sessions	705	728	188	16658125	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+23:30:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	656	682	186	16659102	1035	3507		
+	SIP	Sessions	656	682	186	16659102	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+23:45:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	550	597	143	16659990	1035	3507		
+	SIP	Sessions	550	597	143	16659990	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+00:00:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	431	464	131	16660726	1035	3507		
+	SIP	Sessions	431	464	131	16660726	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+00:15:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	252	266	90	16661198	1035	3507		
+	SIP	Sessions	252	266	90	16661198	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+00:30:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	212	217	82	16661644	1035	3507		
+	SIP	Sessions	212	217	82	16661644	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+00:45:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	160	175	63	16661993	1035	3507		
+	SIP	Sessions	160	175	63	16661993	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+01:00:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	118	129	57	16662295	1035	3507		
+	SIP	Sessions	118	129	57	16662295	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+01:15:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	88	97	40	16662565	1035	3507		
+	SIP	Sessions	88	97	40	16662565	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+	Active	High	Total	Total	PerMax	High				
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+01:30:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	79	83	40	16662768	1035	3507		
+	SIP	Sessions	79	83	40	16662768	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+01:45:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	69	73	39	16662951	1035	3507		
+	SIP	Sessions	69	73	39	16662951	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+02:00:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	52	59	28	16663129	1035	3507		
+	SIP	Sessions	52	59	28	16663129	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+02:15:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	54	54	29	16663257	1035	3507		
+	SIP	Sessions	54	54	29	16663257	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+02:30:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	37	43	20	16663385	1035	3507		
+	SIP	Sessions	37	43	20	16663385	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+02:45:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	42	47	19	16663532	1035	3507		
+	SIP	Sessions	42	47	19	16663532	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+03:00:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	35	41	16	16663632	1035	3507		
+	SIP	Sessions	35	41	16	16663632	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+03:15:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	48	51	25	16665431	1035	3507		
+	SIP	Sessions	48	51	25	16665431	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+03:30:03-174	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	31	37	23	16665537	1035	3507		
+	SIP	Sessions	31	37	23	16665537	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+03:45:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	39	40	23	16665640	1035	3507		
+	SIP	Sessions	39	40	23	16665640	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+04:00:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	34	40	18	16665748	1035	3507		
+	SIP	Sessions	34	40	18	16665748	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+04:15:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	30	34	17	16665825	1035	3507		
+	SIP	Sessions	30	34	17	16665825	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+04:30:02-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	32	41	4	16665888	1035	3507		
+	SIP	Sessions	32	41	4	16665888	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+04:45:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	25	27	15	16665951	1035	3507		
+	SIP	Sessions	25	27	15	16665951	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+05:00:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	21	22	14	16666003	1035	3507		
+	SIP	Sessions	21	22	14	16666003	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+05:15:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	19	19	10	16666053	1035	3507		
+	SIP	Sessions	19	19	10	16666053	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+05:30:03-173	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	11	16	6	16666092	1035	3507		
+	SIP	Sessions	11	16	6	16666092	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
+05:45:02-172	Capacity=8000									
+	Session	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	Total	Sessions	16	16	7	16666123	1035	3507		
+	SIP	Sessions	16	16	7	16666123	1035	3507		
+	H.323	Calls	0	0	0	0	0	0		
+										
+	IWF	Statistics	--	Period	--	--------	Lifetime	--------		
+		Active	High	Total	Total	PerMax	High			
+	H.323-to-SIP	Calls	0	0	0	0	0	0		
+	SIP-to-H.323	Calls	0	0	0	0	0	0		
+	ofallonsbc2>	spawn	sudo	ssh	10.7.240.156					
+										
+	ofallonsbc2>	show	sessions							
